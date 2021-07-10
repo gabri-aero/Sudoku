@@ -48,7 +48,7 @@ class Grid:
 
 class Cube:
     def __init__(self, value, row, col, width, height):
-        self.value = value
+        self.value = valu
         self.row = row
         self.col = col
         self.width = width 

@@ -50,4 +50,3 @@ def writeNum(i, j, sudoku, memory):
             i-=1
         if memory[i][j]:
             return i, j-1 #backtracking to position i,j
-

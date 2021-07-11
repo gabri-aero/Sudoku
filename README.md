@@ -6,4 +6,4 @@
   - Timer 🕒
   - Correct/incorrect info instantly 👍🏼👎🏼❓
 
-![sudoku](https://user-images.githubusercontent.com/79655304/125192815-f1135c80-e249-11eb-9ae7-bdbf32921793.PNG)
+![image](https://user-images.githubusercontent.com/79655304/125192935-6b43e100-e24a-11eb-8b4b-adb8c3a50f74.png)
